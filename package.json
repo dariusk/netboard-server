@@ -1,0 +1,6 @@
+{
+  "name": "board-server",
+  "dependencies": {
+    "cloak": "^1.0.0"
+  }
+}
